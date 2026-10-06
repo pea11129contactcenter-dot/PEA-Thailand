@@ -1,0 +1,6 @@
+{
+  "name": "PEA Smart Plus",
+  "description": "แอปพลิเคชัน PEA Smart Plus - บริการจัดการไฟฟ้า ชำระค่าไฟ คำนวณค่าไฟฟ้า และแจ้งไฟฟ้าขัดข้อง",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
